@@ -41,3 +41,6 @@ This repository contains Data Science Projects in Python programming language.
         
       - [Support Vector Machines Project](https://github.com/Ravjot03/Support-Vector-Machines-Project):
         In this project, I build a Support Vector Machines classifier to classify a **Pulsar star**. I have used the predicting a Pulsar Star dataset for this project. I have downloaded this dataset from the Kaggle website.
+        
+      - [Random Forest Classification Project](https://github.com/Ravjot03/Random-Forest-Classification-Project):
+       In this project, I build a Random Forest Classifier model (with 10 decision-trees) to predict safety of the car. The accuracy increases with number of decision-trees. I have also demonstrated the feature selection process using the Random Forest model.
