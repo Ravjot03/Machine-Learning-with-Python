@@ -39,7 +39,7 @@ This repository contains Data Science Projects in Python programming language.
       - [Logistic Regression Project](https://github.com/Ravjot03/Heart-Disease-Prediction):
         In this project, I train a binary Logistic Regression classifier to predict whether the person will have any heart disease or not. The dataset is publically available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has **10-years risk of future coronary heart disease (CHD)**. The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes.
         
-      - [Logistic Regression Project - 2](https://github.com/Ravjot03/Predicting-Credit-Card-Approvals):
+      - [Logistic Regression Project - 2 ](https://github.com/Ravjot03/Predicting-Credit-Card-Approvals):
         In this project, I have trained a Logistic Regression classifier to predict if an individual’s application for a credit card will be accepted or not. I'll be using Credit Card Approval Dataset from UCI Machine Learning Repository
         
       - [Support Vector Machines Project](https://github.com/Ravjot03/Support-Vector-Machines-Project):
