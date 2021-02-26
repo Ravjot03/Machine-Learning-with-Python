@@ -6,8 +6,8 @@ This repository contains Data Science Projects in Python programming language.
 
 ## Contents 
   - ### Supervised Learning Regression Model:
-    * [Linear Regression Introduction](https://github.com/Ravjot03/Machine-Learning-Models/blob/master/Linear%20Regression/LinearRegressionIntro.ipynb)
-    * [Linear Regression Pipelining](https://github.com/Ravjot03/Machine-Learning-Models/blob/master/Linear%20Regression/LinearRegressionModels.ipynb)
+    * [Linear Regression Introduction](https://github.com/Ravjot03/Machine-Learning-Models/tree/master/Regression%20Models/Linear%20Regression/Introduction)
+    * [Linear Regression Advanced](https://github.com/Ravjot03/Machine-Learning-Models/tree/master/Regression%20Models/Linear%20Regression/Advanced)
     * [Linear Regression Project - ECommerce Customers Project](https://github.com/Ravjot03/E-Commerce-Customers-Project)
     
   - ### Supervised Learning with Classification Model:
