@@ -11,7 +11,7 @@ This repository contains Data Science Projects in Python programming language.
     * [Multiple Linear Regression Project](https://github.com/Ravjot03/E-Commerce-Customers-Project):
     In this project, I have explained implementation of a Multiple Linear Regression Model. I have used E-Commerce Customers Dataset from Kaggle. Also, discussed how to evaluate the performance of model.
     * [Linear Regression - Advanced](https://github.com/Ravjot03/Machine-Learning-Models/tree/master/Regression%20Models/Linear%20Regression/Advanced):
-    In this project, I have explained different types of Regression Models to predict the life expectancy in a given country, based on features such as country's GDP, fertility rate and population. I have downloaded dataset from Gapminder website.
+    In this project, I have explained different types of Regression Models to predict the life expectancy in a given country, based on features such as country's GDP, fertility rate and population. I have downloaded dataset from Gapminder website. I have discussed feature engineering techniques along with Cross Validation, Regularized Regression Models and Pipelines.
     
     
   - ### Supervised Learning with Classification Model:
