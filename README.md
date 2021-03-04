@@ -30,7 +30,7 @@ This repository contains Data Science Projects in Python programming language.
       - [XGBoost Algorithm Introduction](https://github.com/Ravjot03/Machine-Learning-Models/blob/master/Classification/XGBoost.ipynb):
         This jupyter notebook contains introduction of XGBoost Model.
       - [XGBoost Algorithm Project](https://github.com/Ravjot03/Parkinsons-Disease):
-        I have trained a full XGBoosting classifier for **Parkinson’s disease**.
+        In this project, I have built a XGBoost Classifier to predict Parkinson's Disease.
         
       - [Logistic Regression Project - 1 ](https://github.com/Ravjot03/Heart-Disease-Prediction):
         In this project, I train a binary Logistic Regression classifier to predict whether the person will have any heart disease or not. The dataset is publically available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has **10-years risk of future coronary heart disease (CHD)**. The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes.
