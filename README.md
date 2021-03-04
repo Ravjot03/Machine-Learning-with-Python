@@ -19,7 +19,7 @@ This repository contains Data Science Projects in Python programming language.
       In this project, I have explained basics of different types of classification models and their implementations.
     * [Classification Models (Project-2 - Advanced)](https://github.com/Ravjot03/Machine-Learning-Models/tree/master/Classification%20Models/Project-2):
       In this project, I have built a classifier to predict Diabetes disease. I have downloaded dataset from UCI Machine Learning Repository. I have discussed Hyperparameters tuning along with Cross Validation and pipelines.
-    * [Classification Algorithms Project - Diabetes Prediction Project](https://github.com/Ravjot03/Diabetes-Prediction):
+    * [Classification Algorithms Project - Diabetes Disease Prediction](https://github.com/Ravjot03/Diabetes-Prediction):
       This project consists of different classifiers to predict the whether the person is **diabetic or not**. Also, evaluated the performances of each classification model.
     
     * **Classification Algorithms:**
