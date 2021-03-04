@@ -24,7 +24,7 @@ This repository contains Data Science Projects in Python programming language.
     
     * **Classification Algorithms:**
       
-      - [KNearest Neighbors](https://github.com/Ravjot03/Machine-Learning-Models/blob/master/Classification/ClassificationDataCampModels.ipynb):
+      - [KNearest Neighbors](https://github.com/Ravjot03/Machine-Learning-Models/tree/master/Classification%20Models/Project-2):
         K Nearest Neighbours is the simplest of all machine learning algorithms. In this project, I build a kNN classifier to classify the patients suffering from **Diabetes**. I have used the Diabetes Data Set from the UCI Machine Learning Repository.
       
       - [XGBoost Algorithm Introduction](https://github.com/Ravjot03/Machine-Learning-Models/blob/master/Classification/XGBoost.ipynb):
