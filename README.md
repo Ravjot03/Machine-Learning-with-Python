@@ -15,18 +15,10 @@ This repository contains Data Science Projects in Python programming language.
     
     
   - ### Supervised Learning with Classification Model:
-    * [Classification Introduction](https://github.com/Ravjot03/Machine-Learning-Models/blob/master/Classification/ClassificationIntro.ipynb):
-      This jupyter notebook contains basics of classification, different types of classification models and their implementation.
-    * [Classification Models](https://github.com/Ravjot03/Machine-Learning-Models/blob/master/Classification/ClassificationDataCampModels.ipynb):
-      First part of this jupyter notebook contains KNearest Neighbors Classifier Model with different model selectioon like train_test_split and cross validation model.
-
-      Second part of this notebook contains "Fine Tuning of the Model" i.e. how to get Classification Report and Confusion Matrix.
-      Second part also contains the Hyperparameters like GridSearchCV , RandomizedSearchCV, Ridge Model and How to deal with missing values.
-
-      Third part contains the Preprocesssing and Pipeline of the data.
-
-      Last part of the jupyter notebook contains basics of another classification model named Support Vector Machines (SVM).
-      
+    * [Classification Models (Project-1 - Introductory)](https://github.com/Ravjot03/Machine-Learning-Models/tree/master/Classification%20Models/Project-1):
+      In this project, I have explained basics of different types of classification models and their implementations.
+    * [Classification Models (Project-2 - Advanced)](https://github.com/Ravjot03/Machine-Learning-Models/tree/master/Classification%20Models/Project-2):
+      In this project, I have built a classifier to predict Diabetes disease. I have downloaded dataset from UCI Machine Learning Repository. I have discussed Hyperparameters tuning along with Cross Validation and pipelines.
     * [Classification Algorithms Project - Diabetes Prediction Project](https://github.com/Ravjot03/Diabetes-Prediction):
       This project consists of different classifiers to predict the whether the person is **diabetic or not**. And different classifers are evaluated by their accuracy scores.
     
