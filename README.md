@@ -24,7 +24,7 @@ This repository contains Data Science Projects in Python programming language.
     
     * **Classification Algorithms:**
       
-      - [KNearest Neighbors](https://github.com/Ravjot03/K-Nearest-Neighbors-Project):
+      - [K Nearest Neighbors Project](https://github.com/Ravjot03/K-Nearest-Neighbors-Project):
         K Nearest Neighbours is the simplest of all machine learning algorithms. In this project, I have built a kNN classifier to classify the party affiliation of United States Congressmen based on their voting records. I have used the Congressional Voting Records Dataset from the UCI Machine Learning Repository.
       
       - [XGBoost Algorithm Introduction](https://github.com/Ravjot03/Machine-Learning-Models/blob/master/Classification/XGBoost.ipynb):
