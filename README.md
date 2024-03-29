@@ -13,6 +13,7 @@ This repository contains Data Science Projects in Python programming language.
     * [Multiple Linear Regression Project](https://github.com/Ravjot03/E-Commerce-Customers-Project):
     In this project, I have explained implementation of a Multiple Linear Regression Model. I have used E-Commerce Customers Dataset from Kaggle. Also, discussed how to evaluate the performance of model.
     * [Random Forest Regression Project](https://github.com/Ravjot03/Random-Forest-Regression-Project):
+    In this project, I have built a Prediction Model to predict Medical Insurance Cost of an Individual costed by a Health Insurance Company using Random Forest Regressor Machine Learning Model.
     
     
   - ### Supervised Learning with Classification Model:
